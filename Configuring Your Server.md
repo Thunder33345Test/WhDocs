@@ -2,7 +2,7 @@
 
 ## In this article we will give you a overview of all the functions in our panel you can utilize to manage your server.
 
-+ Firstly navigate to the [game panel](https://witherpanel.com)
++	 Firstly navigate to the [game panel](https://witherpanel.com)
 
   ![Make sure you are in the home screen](https://i.imgur.com/7YQJXtg.png)
 
